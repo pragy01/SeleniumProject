@@ -104,7 +104,9 @@ public class BBO_Client_Customize {
 	}
 	
 	public boolean dropCountry(String Region) {
+		objWrapperFunctions.nowURL();
 		return objWrapperFunctions.setText(clickCountry, Region);
 	}
-
+	
+	
 }

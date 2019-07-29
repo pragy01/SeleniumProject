@@ -22,6 +22,7 @@ public class MyModulesPage
 		public boolean clickOneBuyBackOffice()
 		{
 			return objWrapperFunctions.click(btnOneBuyBackOffice);
+			
 		}
 		
 		public boolean clickAssetManagement()
