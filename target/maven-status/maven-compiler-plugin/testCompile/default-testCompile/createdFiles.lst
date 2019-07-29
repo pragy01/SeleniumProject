@@ -1,0 +1,10 @@
+com\nielsen\pageFactory\BBO_Client_Customize.class
+com\nielsen\stepDefinitions\NSO_LoginStep.class
+com\testRunners\RunnerTest.class
+com\nielsen\pageFactory\NSO_LoginPage.class
+com\nielsen\pageFactory\OneBuyBackoffice_OrderManagement_CatalogM_Location.class
+com\nielsen\pageFactory\AssetManagementPage.class
+com\nielsen\stepDefinitions\NSO_1BBO_Client_Customize.class
+com\nielsen\pageFactory\OneBuyBackoffice_OrderManagement_CatalogM_Exibition.class
+com\nielsen\stepDefinitions\NSO_1BBO_OrderManagement_CatalogM_Location.class
+com\nielsen\pageFactory\MyModulesPage.class

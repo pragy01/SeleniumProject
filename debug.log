@@ -1,0 +1,107 @@
+[0820/144003.157:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0820/144003.424:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0820/144005.233:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0830/145323.453:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0830/145323.638:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0830/145342.445:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0830/145343.447:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0830/145343.595:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0830/145351.078:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0830/145351.271:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0830/145351.460:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0830/145351.642:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0830/145407.206:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0830/145434.157:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0830/145434.287:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0830/145434.647:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/180554.578:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/180554.592:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/180559.463:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/180559.487:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/180621.566:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/180621.587:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/180623.776:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/180623.795:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/180650.607:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/180650.628:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/180719.178:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/180719.191:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/180737.960:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/180737.976:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/180810.832:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/180810.855:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/180828.620:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/180828.638:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/180839.817:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/180839.844:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/180908.111:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/180908.133:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/180930.635:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/180930.654:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/180953.392:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/180953.417:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/182249.911:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/182249.937:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/182300.846:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/182300.865:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0904/182316.001:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0904/182316.019:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0905/122803.605:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0905/122803.652:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0905/132521.935:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0905/132521.973:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0905/132539.710:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0905/132539.738:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0905/190018.844:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0905/190018.907:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0905/190042.532:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0905/190042.550:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0905/190054.828:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0905/190054.845:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0905/190409.727:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0905/190409.742:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0906/122014.943:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0906/122014.986:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0906/122041.356:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0906/122041.402:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0906/122059.463:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0906/122059.491:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0906/122114.201:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0906/122114.226:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0907/153238.737:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0907/153238.824:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0907/153248.095:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0907/153248.335:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0907/153326.278:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0907/153326.395:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0907/153404.333:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0907/153404.434:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0907/153423.656:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0907/153423.749:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0910/172357.899:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/114021.249:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/114610.494:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/164031.936:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/172358.525:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/114020.189:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/114609.402:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/164033.027:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/172358.090:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1210/115859.930:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1210/122103.920:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1210/122634.227:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1210/161813.747:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1211/103720.621:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1211/104017.679:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1211/181114.781:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1211/181524.573:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1211/182400.612:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1211/184557.918:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1211/192708.843:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1211/210816.814:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1211/214255.824:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1212/084824.508:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1212/134720.289:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1212/134720.570:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1212/164110.975:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1213/200957.025:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
