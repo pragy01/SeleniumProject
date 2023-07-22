@@ -16,7 +16,7 @@
 		<poi-ooxml.version>3.9</poi-ooxml.version>
 		<poi-ooxml-schemas.version>3.12</poi-ooxml-schemas.version>
 		<dom4j.version>1.6.1</dom4j.version>
-		<xmlbeans.version>2.6.0</xmlbeans.version>
+		<xmlbeans.version>3.0.0</xmlbeans.version>
 		<itext.version>4.2.1</itext.version>
 		<cucumber-reporting.version>0.0.22</cucumber-reporting.version>
 		<xml-apis>1.4.01</xml-apis>
